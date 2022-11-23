@@ -1,8 +1,23 @@
+.main{
+    display: flex;
+    justify-content: left;
+    background-color: aquamarine;
+    height: 5rem;
+
+}
 .main-web{
 
-    background-color: aquamarine;
     display: flex;
     justify-content: left;
     align-items:center;
 }
 
+ul{
+    display: flex;
+    justify-content:space-between;
+    width:60rem;
+}
+.album{
+    justify-content: center;
+    align-items: center;
+}
